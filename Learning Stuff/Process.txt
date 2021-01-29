@@ -1,0 +1,12 @@
+Step 1:
+	Make sure you have the correct imports, and that the required software is installed.
+
+Step 2:
+	Generate or get your dataset from a source. Make sure it is in a proper format for usage.
+
+Step 3:
+	Formulate the data into test and training sets. 
+
+Step 4: Fit the data to a model, you hopefully imported it in step 1.
+
+Step 5: Get data output from the array of options available.
